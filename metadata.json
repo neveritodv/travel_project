@@ -1,0 +1,8 @@
+{
+  "name": "Remix: See Morocco Travel",
+  "description": "Multi-page luxury web application for See Morocco Travel featuring cinematic video heroes, interactive 3D elements, signature private tours, executive fleet showcase, AI travel concierge, and multi-route booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
